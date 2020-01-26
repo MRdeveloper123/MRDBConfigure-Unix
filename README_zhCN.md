@@ -1,12 +1,12 @@
 # MRDBConfigure_Unix
 
-## Introduceion
+## 介绍
 Unix或类Unix平台上MRDB的配置工具。
 
 该配置工具为用户提供了一个TUI界面来配置MRDB服务器。
 
 ---
-## Screenshots
+## 屏幕截图
 ![1][1]
 ![2][2]
 ![3][3]
