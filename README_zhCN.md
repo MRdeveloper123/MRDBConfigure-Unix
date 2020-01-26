@@ -1,9 +1,9 @@
 # MRDBConfigure_Unix
 
 ## Introduceion
-Configuration tool for MRDB on Unix or Unix-like platform.
+Unix或类Unix平台上MRDB的配置工具。
 
-The configuration tool provides a TUI interface for users to configure MRDB server.
+该配置工具为用户提供了一个TUI界面来配置MRDB服务器。
 
 ---
 ## Screenshots
