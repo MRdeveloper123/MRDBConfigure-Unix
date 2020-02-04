@@ -1,5 +1,7 @@
 # MRDBConfigure_Unix
 
+## Warning: The project had been archived, because we use "json" instead.
+
 ## Introduceion
 Configuration tool for MRDB on Unix or Unix-like platform.
 
