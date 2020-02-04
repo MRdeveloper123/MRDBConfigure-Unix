@@ -1,5 +1,7 @@
 # MRDBConfigure_Unix
 
+## 警告：该项目已存档，因为我们已经改用json作为配置文件的格式
+
 ## 介绍
 Unix或类Unix平台上MRDB的配置工具。
 
